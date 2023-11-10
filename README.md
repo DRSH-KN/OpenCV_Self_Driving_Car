@@ -1,4 +1,5 @@
 Project: https://scienceinmyroom.blogspot.com/p/opencv-based-self-driving-car-using.html
+
 A low Computing, Optimised OpenCV Library Based Self Driving Car That Detects and Navigates A Lane Through A Algorithm Called Pixel Summation. 
 Low Computing Accounts for the Hardware Chosen: RaspberryPie 4 Model B and Software Technique Used: Computer Vision Library + Summation Algorithm, which makes it possible for a fast response application, i.e Self Driving.
 
